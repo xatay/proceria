@@ -4,7 +4,7 @@ null,
 {"id":2,"expanded":true,"name":"NIVEL 3-PARTE BAJA","order":6,"parentId":0,"scrollX":2539.3333333333335,"scrollY":256.3333333333333,"quick":false},
 {"id":3,"expanded":false,"name":"NIVEL 3-PARTE ALTA","order":5,"parentId":0,"scrollX":2600,"scrollY":305,"quick":false},
 {"id":4,"expanded":false,"name":"minijuego llaves","order":2,"parentId":1,"scrollX":811,"scrollY":449.5,"quick":false},
-{"id":5,"expanded":true,"name":"NIVEL 2","order":3,"parentId":0,"scrollX":2010,"scrollY":1664.5,"quick":false},
+{"id":5,"expanded":true,"name":"NIVEL 2","order":3,"parentId":0,"scrollX":2002,"scrollY":3582.5,"quick":false},
 {"id":6,"expanded":false,"name":"NIVEL 3 PLAZA","order":7,"parentId":0,"scrollX":736.3636363636364,"scrollY":371.4545454545455,"quick":false},
 {"id":7,"expanded":false,"name":"minijuego escarapela","order":4,"parentId":5,"scrollX":301,"scrollY":305}
 ]
