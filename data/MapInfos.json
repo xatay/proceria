@@ -1,12 +1,12 @@
 [
 null,
-{"id":1,"expanded":true,"name":"NIVEL 1","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":599.3333333333334},
-{"id":2,"expanded":false,"name":"FIN","order":9,"parentId":6,"scrollX":1092,"scrollY":599.3333333333334,"quick":false},
-{"id":3,"expanded":false,"name":"NIVEL 3-PARTE ALTA","order":6,"parentId":0,"scrollX":2748,"scrollY":610,"quick":false},
-{"id":4,"expanded":false,"name":"minijuego llaves","order":2,"parentId":1,"scrollX":816,"scrollY":624,"quick":false},
-{"id":5,"expanded":true,"name":"NIVEL 2","order":3,"parentId":0,"scrollX":2897.3333333333335,"scrollY":728.6666666666666,"quick":false},
-{"id":6,"expanded":true,"name":"NIVEL 3 PLAZA","order":8,"parentId":0,"scrollX":1092,"scrollY":610,"quick":false},
-{"id":7,"expanded":false,"name":"minijuego escarapela","order":4,"parentId":5,"scrollX":1081.3333333333333,"scrollY":599.3333333333334},
-{"id":8,"expanded":false,"name":"minijuego piano","order":5,"parentId":5,"scrollX":1081.3333333333333,"scrollY":599.3333333333334},
-{"id":9,"expanded":true,"name":"NIVEL 3-PARTE BAJA","order":7,"parentId":0,"scrollX":1824,"scrollY":599.3333333333334,"quick":false}
+{"id":1,"expanded":true,"name":"NIVEL 1","order":1,"parentId":0,"scrollX":631.3333333333334,"scrollY":568.6666666666666},
+{"id":2,"expanded":false,"name":"FIN","order":9,"parentId":6,"scrollX":620.6666666666666,"scrollY":568.6666666666666,"quick":false},
+{"id":3,"expanded":false,"name":"NIVEL 3-PARTE ALTA","order":6,"parentId":0,"scrollX":1072,"scrollY":568.6666666666666,"quick":false},
+{"id":4,"expanded":false,"name":"minijuego llaves","order":2,"parentId":1,"scrollX":620.6666666666666,"scrollY":568.6666666666666,"quick":false},
+{"id":5,"expanded":true,"name":"NIVEL 2","order":3,"parentId":0,"scrollX":1704,"scrollY":3463.3333333333335,"quick":false},
+{"id":6,"expanded":true,"name":"NIVEL 3 PLAZA","order":8,"parentId":0,"scrollX":632,"scrollY":568.6666666666666,"quick":false},
+{"id":7,"expanded":false,"name":"minijuego escarapela","order":4,"parentId":5,"scrollX":620.6666666666666,"scrollY":568.6666666666666},
+{"id":8,"expanded":false,"name":"minijuego piano","order":5,"parentId":5,"scrollX":948,"scrollY":525.5},
+{"id":9,"expanded":true,"name":"NIVEL 3-PARTE BAJA","order":7,"parentId":0,"scrollX":624,"scrollY":568.6666666666666,"quick":false}
 ]
